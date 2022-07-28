@@ -1,0 +1,76 @@
+body{
+    background-color:red;
+   margin: 0px;
+       font-size:20px;
+       color:white ;
+       padding: 0px;
+       text-align: center;
+   
+   
+   }
+   #tituloprincipal{
+      font-size:55px; 
+      color:white;
+      font-family: 'Satisfy', cursive;
+   }
+   .menu{
+      list-style: none;
+   position:fixed;
+   top:20px;
+   z-index: 10;
+   cursor: pointer;
+   width: 100%;
+   text-align: right;
+   height: 40px; 
+   margin:0px;
+   padding: 10px;
+   right: 20px;
+   }
+   .link{  
+      display: inline;
+      padding: 13px;
+   font-size: 20px;
+   text-transform: uppercase;
+   font-family: fantasy;
+   list-style: none;
+   
+   
+   }
+   .link a  {
+      text-decoration: none;
+   }
+   .rosa{
+      color:white;
+   }
+   .roxo{
+      color:white ;
+   }
+   section{
+      text-align: center;
+   }
+   #inicio{
+      padding-top: 40px;
+   }
+   #sobre{
+      background-color:red;
+      color:white;
+     text-align:center;
+     font-size:21px;
+   }
+   .aparencia{
+     text-align:center;
+     color:white;
+     font-size:30px; 
+     font-family: 'Satisfy', cursive;
+     font-weight: normal;
+   }
+   li{
+     list-style:none;
+   }
+
+   #coracoes{
+   width: 800px;
+   height: 480px;
+   }
+   
+   
